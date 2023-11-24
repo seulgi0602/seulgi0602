@@ -1,4 +1,4 @@
-### Hi there 👋
+### 매일,매분,매초 인생을 바꿀 수 있는 기회가 있어 👋
 
 <!--
 **seulgi0602/seulgi0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
